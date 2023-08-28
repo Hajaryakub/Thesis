@@ -1,4 +1,4 @@
-# Thesis for University of Birmingham Dubai- Masters in Bioinformatics
+# Code for Individual Project [University of Birmingham Dubai- Masters in Bioinformatics]
 
 order:
 Phyloseq_process,
